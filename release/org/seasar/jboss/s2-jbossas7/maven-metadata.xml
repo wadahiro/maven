@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.seasar.jboss</groupId>
+  <artifactId>s2-jbossas7</artifactId>
+  <version>0.1</version>
+  <versioning>
+    <versions>
+      <version>0.1</version>
+    </versions>
+    <lastUpdated>20120722011945</lastUpdated>
+  </versioning>
+</metadata>
